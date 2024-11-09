@@ -1,5 +1,8 @@
 # ECE570-PINN
 
+## Video Link
+The Demo Video associated with this final project is located here: https://youtu.be/q7uN6WrscoY
+
 ## Summary
 The Jupyter notebook in this repository features a Physics-Informed Neural Network that is intended to solve the heat equation with associated initial and boundary conditions. These solutions are also compared to a standard numerical solution to check the fidelity of the output.
 
